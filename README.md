@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **CSS, JS, Java(Problem Solving)**
 
 - 📫 How to reach me **himanshupoonia336@gmail.com**
 
