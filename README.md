@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Portfolio Website**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Blockchain Development**
 
 - 💬 Ask me about **CSS, JS, Java(Problem Solving)**
 
