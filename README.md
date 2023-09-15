@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itshypon&label=Profile%20views&color=0e75b6&style=flat" alt="itshypon" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hypon5" target="blank"><img src="https://img.shields.io/twitter/follow/itshypon?logo=twitter&style=for-the-badge" alt="hypon5" /></a> </p>
+<p align="left"> <a href="https://twitter.com/itshypon" target="blank"><img src="https://img.shields.io/twitter/follow/itshypon?logo=twitter&style=for-the-badge" alt="itshypon" /></a> </p>
 
 - 🔭 I’m currently working on **Web Projects**
 
