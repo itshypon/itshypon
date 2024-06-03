@@ -2,6 +2,13 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
+  ````bash
+> A Full Stack Developer and Blockchain Enthusiast who programs in Javascript/Typescript and Java
+> Currently learning Rust
+> Minimalist Tiling WM Nerd (dwm)
+> goodreads : https://www.goodreads.com/user/show/172376619-himanshu
+> In love with Cats ᓚᘏᗢ, Chess and Travel
+````
     
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Connect with me :
 <p align="left">
@@ -11,7 +18,7 @@
 </p>
   </div>
   <div>
-    <img align="right" alt-"coding" width="400" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" style="border: 2px solid white; border-radius: 10px;" />
+    <img align="right" alt-"coding" width="400" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" style="border: 2px solid cyan; border-radius: 10px;" />
   </div>
 </div>
 
@@ -48,7 +55,7 @@
 |<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|
 
 
-### OS: ❤️ (linux is love)
+### OS: 
 
 | Linux | Arch | Kali |
 |----------|----------|----------|
