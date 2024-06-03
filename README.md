@@ -2,6 +2,7 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
+    
   ````bash
 > A Full Stack Developer and Blockchain Enthusiast who programs in Javascript/Typescript and Java
 > Currently learning Rust
