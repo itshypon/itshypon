@@ -4,7 +4,7 @@
   <div>
     
   ````bash
-> A Full Stack Sorcerer and Blockchain Enthusiast who programs in Javascript/Typescript and Java
+> A Full Stack Sorcerer and Blockchain Enthusiast who programs in JS/TS and Java
 > Currently learning Rust
 > Minimalist Tiling WM Nerd (dwm)
 > goodreads : https://www.goodreads.com/user/show/172376619-himanshu
