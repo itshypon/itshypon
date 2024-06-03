@@ -11,7 +11,7 @@
 ### Languages:
 <div>
 
-**| Java | JS | TS | Rust |**
+| Java | JS | TS | Rust |
 |----------|----------|----------|-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-line.svg" title="Rust" alt="Rust" width="55" height="55"/>|
 
@@ -20,24 +20,24 @@
 
 ### Frameworks/Libraries :
 
-**| React | Express | NextJS | TailwindCSS | Mongoose |**
-|----------|----------|----------|----------|----------|----------|----------|
+| React | Express | NextJS | TailwindCSS | Mongoose |
+|----------|----------|----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express"  alt="Express" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Mongoose" alt="Mongoose" width="55" height="55"/>|
 
 
 
 ### Tools for Data Manipulation:
 
-**| Postgres | MongoDB |**
-|----------|----------|----------|----------|----------|----------|
+| Postgres | MongoDB |
+|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/>|
 
 
 
 ### Environments, Testing, Other:
 
-**| nodejs | Git | Docker | Postman |**
-|----------|----------|----------|----------|----------|----------|----------|----------|
+| nodejs | Git | Docker | Postman |
+|----------|----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|
 
 
