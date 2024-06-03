@@ -7,6 +7,7 @@
 > A Full Stack Developer and Blockchain Enthusiast who programs in Javascript/Typescript and Java
 > Currently learning Rust
 > Minimalist Tiling WM Nerd (dwm)
+> Interested in building something at hackathons? Let's connect !!
 > goodreads : https://www.goodreads.com/user/show/172376619-himanshu
 > In love with Cats ᓚᘏᗢ, Chess and Travel
 ````
@@ -19,7 +20,7 @@
 </p>
   </div>
   <div>
-    <img align="right" alt-"coding" width="400" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" style="border: 2px solid cyan; border-radius: 10px;" />
+    <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" style="border: 2px solid white; border-radius: 10px;" />
   </div>
 </div>
 
@@ -37,7 +38,7 @@
 
 | React | Express | NextJS | TailwindCSS | Mongoose |
 |----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express"  alt="Express" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Mongoose" alt="Mongoose" width="55" height="55"/>|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express"  alt="Express" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="55" height="55" style="display: block; margin: auto;"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Mongoose" alt="Mongoose" width="55" height="55" style="display: block; margin: auto;"/>|
 
 
 
