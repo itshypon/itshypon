@@ -4,10 +4,9 @@
   <div>
     
   ````bash
-> A Full Stack Developer and Blockchain Enthusiast who programs in Javascript/Typescript and Java
+> A Full Stack Sorcerer and Blockchain Enthusiast who programs in Javascript/Typescript and Java
 > Currently learning Rust
 > Minimalist Tiling WM Nerd (dwm)
-> Interested in building something cool? Let's connect.
 > goodreads : https://www.goodreads.com/user/show/172376619-himanshu
 > In love with Cats ᓚᘏᗢ, Chess and Travel
 ````
