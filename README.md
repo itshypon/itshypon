@@ -4,7 +4,7 @@
   <div>
     
   ````bash
-> A Full Stack Sorcerer and Blockchain Enthusiast who programs in JS/TS and Java
+> A Full Stack Sorcerer and Blockchain Enthusiast who programs in JS and Java
 > Currently learning Rust
 > Minimalist Tiling WM Nerd (dwm)
 > goodreads : https://www.goodreads.com/user/show/172376619-himanshu
@@ -23,46 +23,30 @@
   </div>
 </div>
 
-### Languages:
-<div>
 
-| Java | JS | TS | Rust |
-|----------|----------|----------|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="55" height="55"/>|
-
-
-  
-
-### Frameworks/Libraries :
-
-| React | Express | NextJS | Tailwind | Mongoose |
-|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express"  alt="Express" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="55" height="55" style="display: block; margin: auto;"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Mongoose" alt="Mongoose" width="55" height="55" style="display: block; margin: auto;"/>|
-
-
-
-### Tools for Data Manipulation:
-
-| Postgres | MongoDB |
-|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/>|
-
-
-
-### Environments, Testing, Other:
-
-| nodejs | Git | Docker | Postman |
-|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|
-
-
-### OS: 
-
-| Linux | Arch | Kali |
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch" alt="Arch" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
-
-</div>
+```rust
+let hypon = Hypon {
+        code: vec!["TypeScript", "Javascript", "Java", "Rust", "Solidity"],
+        ask_me_about: vec!["Web", "Blockchain", "Linux"],
+        technologies: Technologies {
+            front_end: FrontEnd {
+                js: vec!["React", "Next.js"],
+                css: vec!["Tailwind"],
+            },
+            back_end: BackEnd {
+                js: vec!["Node", "Express"],
+            },
+            blockchain: vec!["Solana", "Ethereum"],
+            dev_ops: vec!["Docker🐳"],
+            cloud_services: CloudServices {
+                aws: vec!["EC2", "S3"],
+            },
+            databases: vec!["PostgreSQL", "MongoDB", "Firebase", "Redis"],
+            misc: vec!["REST APIs", "WebSockets"],
+        },
+        current_status: "Exploring Rust and Blockchain",
+    };
+```
 
 ---
 
