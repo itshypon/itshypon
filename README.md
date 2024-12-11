@@ -1,6 +1,6 @@
 <h2> Hi, I'm Himanshu! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
   <div>
     
   ````bash
