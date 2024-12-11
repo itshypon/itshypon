@@ -1,6 +1,5 @@
 <h2> Hi, I'm Himanshu! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
   <div>
     
   ````bash
@@ -17,10 +16,7 @@
 <a href="https://linkedin.com/in/hypon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hypon" height="30" width="40" /></a>
 <a href="https://discord.gg/hypoN#1358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hypoN#1358" height="30" width="40" /></a>
 </p>
-  </div>
-  <div>
-    <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" style="border: 2px solid white; border-radius: 10px;" />
-  </div>
+
 </div>
 
 
@@ -44,7 +40,6 @@ let hypon = Hypon {
             databases: vec!["PostgreSQL", "MongoDB", "Firebase", "Redis"],
             misc: vec!["REST APIs", "WebSockets"],
         },
-        current_status: "Exploring Rust and Blockchain",
     };
 ```
 
