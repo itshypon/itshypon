@@ -26,19 +26,19 @@ let hypon = Hypon {
         ask_me_about: vec!["Web", "Blockchain", "Linux"],
         technologies: Technologies {
             front_end: FrontEnd {
-                js: vec!["React", "Next.js"],
+                js: vec!["React", "Next.js", "Angular"],
                 css: vec!["Tailwind"],
             },
             back_end: BackEnd {
-                js: vec!["Node", "Express"],
+                js: vec!["Node", "Express", "ASP.NET"],
             },
             blockchain: vec!["Solana", "Ethereum"],
             dev_ops: vec!["Docker🐳"],
             cloud_services: CloudServices {
                 aws: vec!["EC2", "S3"],
             },
-            databases: vec!["PostgreSQL", "MongoDB", "Firebase", "Redis"],
-            misc: vec!["REST APIs", "WebSockets"],
+            databases: vec!["PostgreSQL", "MongoDB", "Firebase", "Redis", "MS SQL Server"],
+            misc: vec!["REST APIs", "WebSockets", "ADO.NET"],
         },
     };
 ```
