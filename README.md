@@ -3,7 +3,7 @@
   <div>
     
   ````bash
-> A Full Stack Sorcerer and Blockchain Enthusiast who programs in JS and Java
+> A Full Stack Sorcerer and Blockchain Enthusiast who programs in JS, C# and Java
 > Currently learning Rust
 > Minimalist Tiling WM Nerd (dwm)
 > goodreads : https://www.goodreads.com/user/show/172376619-himanshu
@@ -22,7 +22,7 @@
 
 ```rust
 let hypon = Hypon {
-        code: vec!["TypeScript", "Javascript", "Java", "Rust", "Solidity"],
+        code: vec!["TypeScript", "C#", "Java", "Rust", "Solidity"],
         ask_me_about: vec!["Web", "Blockchain", "Linux"],
         technologies: Technologies {
             front_end: FrontEnd {
