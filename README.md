@@ -3,8 +3,8 @@
   <div>
     
   ````bash
-> A Full Stack Sorcerer and Blockchain Enthusiast who programs in JS, C# and Java
-> Currently learning Rust
+> A Full Stack Sorcerer who programs in JS and Java
+> Currently learning about systems
 > Minimalist Tiling WM Nerd (dwm)
 > goodreads : https://www.goodreads.com/user/show/172376619-himanshu
 > In love with Cats ᓚᘏᗢ, Chess and Travel
@@ -22,7 +22,7 @@
 
 ```rust
 let hypon = Hypon {
-        code: vec!["TypeScript", "C#", "Java", "Rust", "Solidity"],
+        code: vec!["TypeScript", "Java"],
         ask_me_about: vec!["Web", "Blockchain", "Linux"],
         technologies: Technologies {
             front_end: FrontEnd {
@@ -30,15 +30,14 @@ let hypon = Hypon {
                 css: vec!["Tailwind"],
             },
             back_end: BackEnd {
-                js: vec!["Node", "Express", "ASP.NET"],
+                js: vec!["Spring Boot", "Node", "Express"],
             },
-            blockchain: vec!["Solana", "Ethereum"],
-            dev_ops: vec!["Docker🐳"],
+            dev_ops: vec!["Docker🐳", "Kubernetes"],
             cloud_services: CloudServices {
                 aws: vec!["EC2", "S3"],
             },
             databases: vec!["PostgreSQL", "MongoDB", "Firebase", "Redis", "MS SQL Server"],
-            misc: vec!["REST APIs", "WebSockets", "ADO.NET"],
+            misc: vec!["REST APIs", "WebSockets", "Hibernate"],
         },
     };
 ```
